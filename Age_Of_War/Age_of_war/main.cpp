@@ -1,7 +1,7 @@
 #include <iostream>
 #include "MainMenu.h"
 
-//Same zipki w grupie
+//Same zip
 
 int main()
 {
