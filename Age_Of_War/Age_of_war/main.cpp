@@ -1,7 +1,7 @@
 #include <iostream>
 #include "MainMenu.h"
 
-//AiR 
+//Same zipki w grupie
 
 int main()
 {
